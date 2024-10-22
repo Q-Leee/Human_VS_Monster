@@ -1,0 +1,17 @@
+﻿  Game.cpp
+C:\Users\gudrb\source\repos\human_VS_monster\human_VS_monster\Monster.h(13,79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\gudrb\source\repos\human_VS_monster\human_VS_monster\Food.h(14,76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+  Human.cpp
+  main.cpp
+C:\Users\gudrb\source\repos\human_VS_monster\human_VS_monster\Monster.h(13,79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\gudrb\source\repos\human_VS_monster\human_VS_monster\Food.h(14,76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  human_VS_monster.vcxproj -> C:\Users\gudrb\source\repos\human_VS_monster\x64\Debug\human_VS_monster.exe
